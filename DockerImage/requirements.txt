@@ -1,0 +1,11 @@
+pdf2image
+streamlit
+veryfi
+pillow
+pathlib
+pdf2image
+pandas
+fastapi
+uvicorn
+pymongo
+PyMuPDF
